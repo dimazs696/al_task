@@ -1,0 +1,6 @@
+{
+    "name": "dmitrii.glushchenko/dl_task",
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}

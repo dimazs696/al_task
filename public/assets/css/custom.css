@@ -1,0 +1,18 @@
+#point{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-radius: 10px;
+    border-width: 2px!important;
+}
+#center{
+    width: 4px;
+    height: 4px;
+    display: block;
+    background-color: var(--bs-danger);
+    border-radius: 2px;
+}

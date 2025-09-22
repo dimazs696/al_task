@@ -41,10 +41,10 @@ project/
 ├── html/
 ├── public/
 │ ├── assets/
-  │ ├── css/
-  │ ├── fonts/
-  │ ├── images/
-  │ ├── scripts/
+│ │ ├── css/
+│ │ ├── fonts/
+│ │ ├── images/
+│ │ └── scripts/
 │ └── index.php
 ├── storage
 └── system
